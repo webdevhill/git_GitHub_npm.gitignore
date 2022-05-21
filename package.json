@@ -1,0 +1,24 @@
+{
+  "name": "git_github_npm",
+  "version": "1.0.0",
+  "description": "node indtallation and .gitignore",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevhill/git_GitHub_npm.gitignore.git"
+  },
+  "author": "Jeffrey Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevhill/git_GitHub_npm.gitignore/issues"
+  },
+  "homepage": "https://github.com/webdevhill/git_GitHub_npm.gitignore#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
